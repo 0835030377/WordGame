@@ -2,16 +2,16 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.jcarvajal</groupId>
+	<groupId>com.mzukisi</groupId>
 	<artifactId>game</artifactId>
 	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<modules>
-		<module>Fantasmico Game.transversal</module>
-		<module>Fantasmico Game.infrastructure</module>
-		<module>Fantasmico Game.services</module>
-		<module>Fantasmico Game</module>
+		<module>wordGame.transversal</module>
+		<module>wordGame.infrastructure</module>
+		<module>wordGame.services</module>
+		<module>wordGame</module>
 	</modules>
 
 </project>
