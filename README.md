@@ -10,8 +10,8 @@ The architecture of this solution is composed by Presentation, Solution, Infrast
 ISTRUCTIONS TO ISTALL
 ---------------------
 The project consists of multiple Maven projects
--Download the  project from GIThub 
+-Download the  project from GIThub.
 -import the existing Maven project on your eclipes
--run clean install from the POM file , the .war file will be compiled and dropped on your target (See directory on your maven console)
+-run clean install from the POM file ,the .war file will be compiled and dropped on your target (See directory on your maven console)
 
 The frameworks that have been used are: Spring MVC, perf4j, junit, jQuery,Maven and Knockout.
